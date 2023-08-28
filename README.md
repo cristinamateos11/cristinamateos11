@@ -90,8 +90,14 @@
 </div>
 <br>
 
-## GitHub Analytics
+## GitHub Analytics 🤍
+<p align="center">
+<a href="https://github.com/cristinamateos11">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristinamateos11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristinamateos11&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
-## Connect With Me
+## Connect With Me 🤍
 
-## Support Me
+## Support Me 🤍
