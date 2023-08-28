@@ -51,3 +51,47 @@
 </table>                                                                                 
 </div>
 <br>
+
+## Personal Projects 🤍
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Heart Clicker</h3>
+<div align="center">
+<a href="https://github.com/cristinamateos11/HeartClicker" target="_blank">
+  <img src="https://res.cloudinary.com/dlddsebry/image/upload/v1693226194/Sounddy_3_y4ooke.png" width="400" alt="Personal Project Heart Clicker">
+</a>
+<p>
+<a href="https://github.com/cristinamateos11/HeartClicker" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>INFO</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Capuccino Meson</h3>
+<div align="center">                                       
+<a href="" target="_blank">
+  <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Personal Project Capuccino Meson">
+</a>
+<br>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>INFO</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+## GitHub Analytics
+
+## Connect With Me
+
+## Support Me
