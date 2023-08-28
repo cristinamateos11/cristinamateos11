@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>INFO</p>
+<p>Karaoke web application and allows you to sing your favorite songs in a fun and easy way. 
+  You can choose from a wide variety of songs and decide if you will sing with the instrumental version or with the lyric version.</p>
 </div>
                                                                                       
 </td>
@@ -46,7 +47,7 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>INFO</p>
+</p>Project to create a podcast channel with rss. Distribute content without the need for a browser. In this case we collect updated information from a specific music group.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -66,7 +67,9 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>INFO</p>
+<p>Heart Clicker is a web application that generates random love phrases every time we "click" on the heart image.
+*Not Finish Yet*
+</p>
 </div>
                                                                                       
 </td>
@@ -84,7 +87,7 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>INFO</p>
+</p>Actually in process...</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -99,5 +102,8 @@
 </p>
 
 ## Connect With Me 🤍
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristina-mateos-paez/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](MAILTO:cristinamateospaez@gmail.com)
 
 ## Support Me 🤍
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge&logo=ko-fi&logoColor=white&color=ff69b4)](https://ko-fi.com/cristinamateos11)
