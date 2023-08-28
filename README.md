@@ -17,7 +17,7 @@
 ## DAW Projects 🤍
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center">Sounddy</h3>
 <div align="center">
 <a href="https://github.com/cristinamateos11/Sounddy_Karaoke_M12" target="_blank">
@@ -34,7 +34,7 @@
                                                                                       
 </td>
 
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <br>
 <h3 align="center">Podcast</h3>
 <div align="center">                                       
@@ -56,7 +56,7 @@
 ## Personal Projects 🤍
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center">Heart Clicker</h3>
 <div align="center">
 <a href="https://github.com/cristinamateos11/HeartClicker" target="_blank">
@@ -74,7 +74,7 @@
                                                                                       
 </td>
 
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
                <br>
 <h3 align="center">Capuccino Meson</h3>
 <div align="center">                                       
