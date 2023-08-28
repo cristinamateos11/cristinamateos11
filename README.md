@@ -76,7 +76,7 @@
 <h3 align="center">Capuccino Meson</h3>
 <div align="center">                                       
 <a href="" target="_blank">
-  <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Personal Project Capuccino Meson">
+  <img src="https://res.cloudinary.com/dlddsebry/image/upload/v1693226195/Sounddy_2_uzdbfe.png" width="400" alt="Personal Project Capuccino Meson">
 </a>
 <br>
 <p>
