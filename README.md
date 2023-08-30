@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Karaoke web application and allows you to sing your favorite songs in a fun and easy way. 
-  You can choose from a wide variety of songs and decide if you will sing with the instrumental version or with the lyric version.</p>
+<p><strong>Karaoke Web Application</strong> that allows you to sing your favorite songs in a fun and easy way. 
+  You can choose from a wide variety of songs and decide if you will sing with the <strong>Instrumental Version</strong> or with the <strong>Lyric Version</strong>.</p>
 </div>
                                                                                       
 </td>
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Project to create a podcast channel with rss. Distribute content without the need for a browser. In this case we collect updated information from a specific music group.</p>
+</p>A Codcast Channel with RSS. Distribute content without the need for a browser. In this case we collect updated information from a specific music group.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -67,8 +67,8 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Heart Clicker is a web application that generates random love phrases every time we "click" on the heart image.
-*Not Finish Yet*
+<p>Heart Clicker is a Web Application that generates random love phrases every time we "click" on the heart image.
+<strong>*Not Finish Yet*</strong>.
 </p>
 </div>
                                                                                       
@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Actually in process...</p>
+</p><strong>Actually in process...</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
