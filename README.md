@@ -104,6 +104,10 @@
 ## Connect With Me 🤍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristina-mateos-paez/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](MAILTO:cristinamateospaez@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-cristinamateospaez-brightgreen.svg)](https://leetcode.com/cristinamateospaez/)
+[![CodeWars](https://www.codewars.com/users/cristina1129/badges/small)](https://www.codewars.com/users/cristina1129)
+[![CodePen](https://img.shields.io/badge/CodePen-cristinamateos-blue.svg)](https://codepen.io/cristinamateos)
+
 
 ## Support Me 🤍
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge&logo=ko-fi&logoColor=white&color=ff69b4)](https://ko-fi.com/cristinamateos11)
