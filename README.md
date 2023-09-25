@@ -8,6 +8,7 @@
 
 ## About me 🤍
 - 💻 Web Developer Degree
+- 👩‍💻 Bootcamp Full Stack Developer
 - 📊 Passionate about Data Science, Programming and Web Design
 - ✏️ In my spare time: Writer and Content Creator
 - 🏆 Winner of ARGÓ Awards (UAB University) and CREATIC Awards (TCM University)
