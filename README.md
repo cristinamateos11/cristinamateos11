@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/CODE-ff69b4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>A Codcast Channel with RSS. Distribute content without the need for a browser. In this case we collect updated information from a specific music group.</p>
+</p>A Podcast Channel with RSS. Distribute content without the need for a browser. In this case we collect updated information from a specific music group.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
